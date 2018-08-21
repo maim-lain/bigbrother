@@ -1,3 +1,5 @@
+# Big Brother - Improvements Mod
+
 This isn't a cheat mod, just removes a lot of the grinding and RNG.
 
 
