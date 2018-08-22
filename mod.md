@@ -8,6 +8,8 @@ tells you where alice cigs are (probs dont need?)
 
 always successfully hide spider at 0:00.
 
+always successfully give $10 ^
+
 Always successfully persuade lisa that her homework is incorrect.
 
 Always get +1 per and +1 stealth when peep in the morning
