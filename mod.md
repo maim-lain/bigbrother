@@ -11,7 +11,9 @@
 
 [**DOWNLOAD LINK (MEGA)**]()
 
-First, I would like to point out that this isn't a cheat mod. This mod removes a lot of the grinding and RNG from the game to make it more fair and less tedious. It allows for a normal playthrough without cheating but makes the game easier so you don't waste time grinding or miss out on things due to unlucky RNG.
+<br>
+
+First, I would like to point out that this isn't a cheat mod. This mod removes a lot of the grinding and RNG from the game to make it more fair and less tedious. It allows for a normal playthrough without cheating but makes the game easier so you don't waste time or miss out on things due to unlucky RNG.
 
 <br>
 
