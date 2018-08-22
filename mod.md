@@ -20,6 +20,7 @@ First, I would like to point out that this isn't a cheat mod. This mod removes a
 ## Changelog:
 - The stat increases from peeping on the girls in the morning while they shower is no longer decided by RNG. You now always get +1 Stealth and +1 Persuasion when you peep.
 - If the mom catches you while you are peeping in the morning you don't lose influence anymore and don't get punished.
+- A hint has been added to show where Alice hides her cigarettes in her room.
 - Persuading Lisa that her homework is correct after you purposefully make a mistake will always succeed.
 - If you hide a spider in Alice's bed at midnight she will now always see the spider and ask you to kill it instead of only seeing it sometimes.
 - Alice always gives you $10 to kill a spider if you ask for money. (her mood still decreases)
